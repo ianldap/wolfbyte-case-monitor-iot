@@ -4,14 +4,11 @@ Este projeto visa desenvolver um dispositivo embarcado capaz de monitorar o nív
 
 Projeto desenvolvido para a fase Trainee da equipe WolfByte (Hardware) do Ramo Estudantil IEEE CEFET/RJ (2026.2).
 
-##  Componentes e Hardware
+##  Requisitos
 (Em definição)
 
-##  Arquitetura de Software e Bibliotecas
+##  Instruções de Montagem
 (Em definição)
-
-##  Esquema de Ligação (Circuito)
-(Em andamento)
 
 ##  Como Executar e Reproduzir
 1. Clone este repositório: `git clone https://github.com/ianldap/wolfbyte-case-monitor-iot.git`
