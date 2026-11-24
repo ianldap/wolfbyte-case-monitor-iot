@@ -62,8 +62,8 @@ Os limites foram calibrados empiricamente em ambiente real de testes.
 * `Adafruit GFX Library`
 
 ### Passo a Passo da Instalação
-1. Clone este repositório para o seu computador.
-2. Abra o arquivo `main.cpp` (ou `.ino`) no Arduino IDE.
+1. Faça download do projeto na aba de 'Releases'.
+2. Abra o arquivo `MonitorAcusticoIOT.ino` em seu Arduino IDE.
 3. Modifique as variáveis `WIFI_SSID` e `WIFI_PASSWORD` nas primeiras linhas do código com as credenciais da sua rede local (Recomendado 2.4GHz).
 4. Conecte o ESP32 ao computador e selecione a placa **DOIT ESP32 DEVKIT V1** no Gerenciador de Placas.
 5. Compile e faça o Upload do código.
